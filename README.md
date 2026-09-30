@@ -2,6 +2,8 @@
 
 Projeto de análise exploratória e tratamento do dataset [Olist Brazilian E-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle), com saída para um dashboard em Power BI (`dash.pbix`).
 
+<img width="660" height="703" alt="Captura de tela 2026-09-30 124534" src="https://github.com/user-attachments/assets/69cd6d7f-12e0-4965-a0ea-7e50c7ce6669" />
+
 ## Estrutura
 
 - `import_data.py` — baixa o dataset via `kagglehub` e salva os CSVs brutos em `dados/`.
